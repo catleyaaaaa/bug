@@ -67,3 +67,6 @@ for i in range (0,int(patch)):
         print ' '
 t = 0
 p=[]
+answer=[]
+rebug(bugin,bugout,patch,bit,time,condition,result,t,p,answer)
+print 'OUT :',answer[len(answer)-1]
